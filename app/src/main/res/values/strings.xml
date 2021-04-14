@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Midterm</string>
+    <string name="_6_seconds">6 seconds</string>
+    <string name="buttoninsert">buttoninsert</string>
+    <string name="goto2">goto2</string>
+    <string name="goto3">goto3</string>
+    <string name="name">name</string>
+    <string name="id">id</string>
+    <string name="delete">delete</string>
+    <string name="goto1">goto1</string>
+    <string name="print">print</string>
+    <string name="search">search</string>
+</resources>
